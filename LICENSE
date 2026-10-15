@@ -1,21 +1,34 @@
-MIT License
+Segue Proprietary Software License
+Copyright (c) 2026 Vincent Rio Servidad. All rights reserved.
 
-Copyright (c) 2026 Vincent Rio Servidad
+IMPORTANT: This license is prospective only. It applies to Segue versions and
+source materials that the copyright holder first distributes under these terms.
+It does not withdraw, replace, or restrict permissions granted for prior
+MIT-licensed versions. See LICENSE-MIT-LEGACY.md for the historical MIT terms.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Free use. You may download, install, and run an unmodified, officially
+distributed Segue application on computers you own or control, at no cost, for
+personal or business use. You may keep reasonable backup copies.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. No redistribution or modification. Unless separately authorized in writing
+by the copyright holder, you may not redistribute, sell, sublicense, rent,
+publish, or provide copies of a version released under these terms; modify it;
+or distribute derivative works. Reverse engineering and decompilation are
+restricted only to the extent permitted by applicable law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Ownership. Segue's original code, brand, artwork, and accompanying
+materials remain the property of their respective rights holders. No rights
+are granted except those expressly stated here.
+
+4. Other licenses and mandatory rights. Third-party components, if any,
+remain subject to their own licenses. Nothing in these terms overrides rights
+that cannot lawfully be restricted, including rights under applicable
+consumer-protection or interoperability laws.
+
+5. Warranty. To the maximum extent permitted by applicable law, the software
+is supplied "as is", without warranties, and the copyright holder disclaims
+liability for damages arising from its use.
+
+The license applicable to a particular download should also be identified
+in that version's release notes and installer. If a version was previously
+distributed under MIT terms, those existing permissions remain in effect.
