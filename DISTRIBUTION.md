@@ -1,4 +1,4 @@
-# Segue distribution policy (proposed)
+# Segue distribution policy
 
 This public repository is for compiled Segue installers, checksum files, and
 release notes only. Segue's development repository is private.
@@ -9,7 +9,12 @@ release notes only. Segue's development repository is private.
 the historical [MIT license](./LICENSE-MIT-LEGACY.md). Those permissions cannot
 be canceled by later changes to the root LICENSE file.
 
-## Before the first new proprietary version
+**v2.4.5 and later** (v2.4.5, v2.4.7, v2.4.8, v2.4.9, v2.5.0 and v2.6.0) are
+distributed under the [Segue Proprietary Software License](./LICENSE), bundled
+in each DMG and in `Segue.app/Contents/Resources/` as `License.txt`. v2.4.6 was
+withdrawn before publication.
+
+## Before each proprietary version
 
 - Review ownership, contribution history, and third-party license obligations.
 - Confirm that the final DMG includes `License.txt` and that Segue.app contains

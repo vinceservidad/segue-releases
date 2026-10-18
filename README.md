@@ -16,6 +16,6 @@ Each release includes a SHA-256 checksum file. This repository distributes compi
 
 ## Licensing
 
-**Existing releases, including v2.4.4, were published under the MIT License.** The [historical MIT grant](./LICENSE-MIT-LEGACY.md) remains valid for those versions. We are preparing **prospective** proprietary licensing for future builds. A future release will use the new terms only when its DMG and release notes explicitly state so. Changing a repository license file does not retroactively revoke permissions granted for older downloads. Segue remains free to download, and its development source is private.
+**v2.4.4 and earlier were published under the MIT License.** The [historical MIT grant](./LICENSE-MIT-LEGACY.md) remains valid for those versions. **v2.4.5 and later** are free to download and use under the [Segue Proprietary Software License](./LICENSE), which each of those DMGs includes as `License.txt`. Changing a repository license file does not retroactively revoke permissions granted for older downloads. Segue's development source is private.
 
 See [distribution policy](./DISTRIBUTION.md) for the release checklist and limitations of source-code protection.
